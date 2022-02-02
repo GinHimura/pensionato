@@ -1,2 +1,2 @@
-# pensionato
- Organizador de pensões
+# Pensionato
+ Organizador de pensões conforme o numero de quartos
